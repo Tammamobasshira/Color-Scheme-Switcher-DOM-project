@@ -2,13 +2,7 @@ body{
     margin:30px;
     text-align: center;
 }
-nav a{
-    text-decoration: none;
-    color: #000;
-    border: 1px solid black;
-    padding:10px;
-    margin-right: 100px;
-}
+
 .canvas h2{
     position: relative;
 }
