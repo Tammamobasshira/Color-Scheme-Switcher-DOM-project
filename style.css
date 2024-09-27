@@ -1,0 +1,56 @@
+body{
+    margin:30px;
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    color: #000;
+    border: 1px solid black;
+    padding:10px;
+    margin-right: 100px;
+}
+.canvas h2{
+    position: relative;
+}
+  span {
+    display: block;
+  }
+
+.button {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+}
+#grey {
+    background: grey;
+  }
+  
+  #white {
+    background: white;
+  }
+  #blue {
+    background: blue;
+  }
+  #yellow {
+    background: yellow;
+  }
+  #pink {
+    background: pink;
+  }
+  #purple {
+    background:rgb(144, 8, 168);
+  }
+  #green {
+    background:green;
+  }
+  #skyblue {
+    background:skyblue;
+  }
+  #red {
+    background:red;
+  }
+  #orange {
+    background:orange;
+  }
+
